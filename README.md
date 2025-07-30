@@ -4,7 +4,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flight-booking-app.git
+git clone [https://github.com/MI-Mahin/flight-booking-app.git](https://github.com/MI-Mahin/Flight-Booking-System/edit/main/README.md)
 cd flight-booking-app
 ```
 
